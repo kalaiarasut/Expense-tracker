@@ -20,7 +20,7 @@ A simple React application to track your income and expenses. Built with [Vite](
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/kalaiyarasut/Expense-tracker.git
    cd expense-tracker
 2. npm install
 3. npm run dev
